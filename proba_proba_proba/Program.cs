@@ -12,7 +12,7 @@ namespace proba_proba_proba
         {
             Console.WriteLine("Helo");
 
-            
+            int a = int.Parse(Console.ReadLine());
         }
     }
 }
