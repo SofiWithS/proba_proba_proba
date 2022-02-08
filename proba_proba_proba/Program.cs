@@ -10,6 +10,8 @@ namespace proba_proba_proba
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Helo");
+
             
         }
     }
