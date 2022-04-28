@@ -15,6 +15,8 @@ namespace proba_proba_proba
             int a = int.Parse(Console.ReadLine());
 
             Console.WriteLine(a*2);
+
+            Console.WriteLine("Blah blah blaaaaah");
         }
     }
 }
